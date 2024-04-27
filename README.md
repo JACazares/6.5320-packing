@@ -24,7 +24,7 @@ python packing.py
 ## Overview
 There are three components to this.
 
-_algorithm.py_: Contains the code for the approximate packing algorithm, runs in $O(N^2 \cdot N^O(k^2))$, yields at every step where we need to update the image
+_algorithm.py_: Contains the code for the approximate packing algorithm, runs in $O(N^2 \cdot N^{O(k^2)})$, yields at every step where we need to update the image
 
 _draw_state.py_: Contains the ```draw_state``` function, which is used to draw the disks and subsequent necessary gridlines and shaded boxes and disks on the screen.
 
