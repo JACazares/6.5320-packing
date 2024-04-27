@@ -3,7 +3,7 @@ Code for the second 6.5320 problem set, implementing an approximation for the pa
 
 ## Demo
 
-
+https://github.com/JACazares/6.5320-packing/assets/17916448/b4795d9f-30a0-48a6-9332-6bdee55e4bd6
 
 ## Instalation Instruction
 
@@ -28,4 +28,4 @@ _algorithm.py_: Contains the code for the approximate packing algorithm, runs in
 
 _draw_state.py_: Contains the ```draw_state``` function, which is used to draw the disks and subsequent necessary gridlines and shaded boxes and disks on the screen.
 
-_closest_point.py_: Contains the code to draw the main menu window, alongside button functionality and graphical disk input, as well as varying the value of k.
+_packing.py_: Contains the code to draw the main menu window, alongside button functionality and graphical disk input, as well as varying the value of k.
